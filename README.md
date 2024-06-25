@@ -9,3 +9,7 @@ Problème encontrer : Lorsque j'envoyais mon fichier audio enregistrer sur le t�
 # Expo deployer avec eas build sur android -> APK disponible dans la section release du project
 
 ![expoDeploy](https://github.com/BencherifAyman/ravesProject/assets/98598959/bad2f666-0f8b-4ee5-b83d-73b84aa83e9f)
+
+# Ou voici le qr code afin de télécharger l'apk 
+
+![qRCodeAPK_Apllication](https://github.com/BencherifAyman/ravesProject/assets/98598959/a9c38e83-9d54-4c1f-abec-1976da648bda)
