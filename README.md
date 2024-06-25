@@ -6,6 +6,6 @@ ProblÃ¨me encontrer : Lorsque j'envoyais mon fichier audio enregistrer sur le tÃ
 
 ![transfomedSongPage](https://github.com/BencherifAyman/ravesProject/assets/98598959/7d69c79f-3d14-4eaa-86ba-9cd4cc6436d8)
 
-# Expo deployer avec eas build sur android -> APK disponible dans la section release github
+# Expo deployer avec eas build sur android -> APK disponible dans la section release du project
 
 ![expoDeploy](https://github.com/BencherifAyman/ravesProject/assets/98598959/bad2f666-0f8b-4ee5-b83d-73b84aa83e9f)
